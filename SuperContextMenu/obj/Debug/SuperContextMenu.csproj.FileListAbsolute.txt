@@ -1,0 +1,11 @@
+D:\TEREX Visual Studio\SuperContextMenu\bin\Debug\SuperContextMenu.exe
+D:\TEREX Visual Studio\SuperContextMenu\bin\Debug\SuperContextMenu.pdb
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.ContextMenuForButton.resources
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.ContextMenuForForm.resources
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.ContextMenuForLabel.resources
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.PopedCotainer.resources
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.MainForm.resources
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.Properties.Resources.resources
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.csproj.GenerateResource.Cache
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.exe
+D:\TEREX Visual Studio\SuperContextMenu\obj\Debug\SuperContextMenu.pdb
